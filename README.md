@@ -1,0 +1,2 @@
+# palta
+palta.css
