@@ -1,2 +1,33 @@
 # palta
-palta.css
+
+                        `.--::---...``
+                     `.:::-----------:--..``
+                   `-::-...........----------..``
+                   ::..`````............------------.``
+                  ./-.`````````...............------::::-.``
+                  .:-.```````````.............----------:::::-.`
+                  `/-.````````````........-------------------::/:-.`
+                   /:..````````.........------:::::--------------:/::-``
+                   .+-.````````........---:::::::-----------::------::/:-`
+                    +/-.```````........--::////:::---------::///::------:/:.
+                    .o:..``````.......--::/oo++///:::///////++ooo+::-....-:/:.
+                     :+-.`````.......--:/+ooooooo+++++++++++oosssss/:-.....-:/-
+                     `o/-.````.....----/+++oooooooooooooooooossyyyyy/:--....--::
+                      .o:-.``......---:++/++osssssssssssssssssyyhhhhs/:--....--::
+                       /o:.........--:/o+/+oossyyyyyyyyyyyyyyyhhhhhhd+:--....--:+`
+                       `s/-.......---:/oo++ossyyyhhhhyyhhhhhhhhhddddds/:-...---:+-
+                        /s/--.....---::ossoossyyyhhhhhhhhhhhhdddddddds/:--..---:+-
+                        `ss/--.....--::+yyyysyyyhhhhhhhdddddddddddmmdo+/:------:o-
+                         .so/--....---::ohhhhhhhhddddhhddddddddddmmmh++/:------/s.
+                          -so/--.....--::+yddddddddddddddmmmmmmmmmmdo+/::-----:oy
+                           :os/-.....----::oydddmmmmmmmmmmmmmmmmmmho+/:------:oh/
+                            :os+--...------::+shdmmmmmmmmmmmmmmdho+//:-----:/ohs
+                             :oso:-....--------:/osyhdmmmmddhyo+/::-------:+sdy`
+                              -+ss+:-.....----------::::::::------------:/shdy.
+                               ./syso:---...............-------------::+shhh+`
+                                `:oyyyo/:--..............---------:/+syhdds-
+                                  ./syyyys+/:---....--------::/+osydddddy/`
+                                   `./osyyhyysoo+++++++++ossyhhdmmmmdds:`
+                                     `.:+ssyyhhhhhhhhhhhddddddmmmmdy+-`
+                                        `.:+syhhhhhhhhddddddddhys/-`
+                                            `.-:/+ooossooo+/:-.`
