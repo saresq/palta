@@ -437,7 +437,7 @@ nav.stick {
 
 
 /*ESTO NO ES SCSS?*/
-.social-share {
+/*.social-share {
   margin: 0;
   min-height: 32px;
   p {
@@ -465,7 +465,7 @@ nav.stick {
       }
     }
   }
-}
+}*/
 
 
 /* Flecha para ir al top de la pag. */
