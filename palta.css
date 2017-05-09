@@ -435,39 +435,6 @@ nav.stick {
   outline: 0px !important;
 }
 
-
-/*ESTO NO ES SCSS?*/
-/*.social-share {
-  margin: 0;
-  min-height: 32px;
-  p {
-    color: $gray;
-    float: left;
-    line-height: 1.2;
-    margin-bottom: 0;
-    margin-top: 8px;
-  }
-  span {
-    color: $gray;
-  }
-  ul {
-    float: left;
-    margin: 5px 10px 5px 5px;
-  }
-  li {
-    border-radius: 4px;
-    margin: 0;
-    padding: 6px;
-    &:hover {
-      background: $brand-primary;
-      span, i {
-        color: $white
-      }
-    }
-  }
-}*/
-
-
 /* Flecha para ir al top de la pag. */
 
 .colorCeleste {
