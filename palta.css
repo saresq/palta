@@ -730,3 +730,9 @@ a.unlink {
     display: none!important
   }
 }
+
+/*MEDIA KIT*/
+.mediakit-img{
+  width: 100%;
+  height: auto;
+}
