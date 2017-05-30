@@ -736,7 +736,7 @@ a.unlink {
 }
 
 /*MEDIA KIT*/
-.mediakit-img{
+.mediakit-img img{
   width: 100%;
   height: auto;
 }
