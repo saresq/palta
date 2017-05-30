@@ -224,6 +224,10 @@ a img.aligncenter {
   padding: 10px 0
 }
 
+.navbar li{
+  padding-bottom: 0 !important;
+}
+
 /*CONTACT FORM 7*/
 
 .form-group input {
