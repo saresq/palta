@@ -228,6 +228,13 @@ a img.aligncenter {
   padding-bottom: 0 !important;
 }
 
+/*Icono al final de input*/
+.fa-input {
+    position: absolute;
+    top: 0.45em;
+    z-index: 2;
+    right: 1.5em;
+}
 /*CONTACT FORM 7*/
 
 .form-group input {
