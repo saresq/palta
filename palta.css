@@ -663,7 +663,7 @@ a.unlink {
 }
 
 .text-blanco {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 
