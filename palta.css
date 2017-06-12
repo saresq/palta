@@ -667,9 +667,12 @@ a.unlink {
 }
 
 .bg-modal{
-  background: #fff;
-  border-radius: 4px;
-  box-shadow: 0 0 10px -4px black;
+  background: #F9F9F9;
+    border-radius: 4px;
+    box-shadow: 0 0 10px -4px black;
+    padding: 20px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 /*FUNCIONES DE BOOTSTRAP V4*/
