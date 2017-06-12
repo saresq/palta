@@ -666,6 +666,11 @@ a.unlink {
   color: #ffffff !important;
 }
 
+.bg-modal{
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 10px -4px black;
+}
 
 /*FUNCIONES DE BOOTSTRAP V4*/
 
