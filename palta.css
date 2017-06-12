@@ -220,6 +220,11 @@ a img.aligncenter {
   background-image: none
 }
 
+.btn-search{
+  margin-bottom: 0 !important;
+    height: 54px !important;
+}
+
 .navbar .navbar-brand {
   padding: 10px 0
 }
@@ -316,7 +321,8 @@ nav.stick {
 
 .maps {
   height: 60vh;
-  overflow: hidden
+  overflow: hidden;
+  margin-bottom: -47px;
 }
 
 .maps iframe {
@@ -675,6 +681,12 @@ a.unlink {
     margin-right: -15px;
 }
 
+@media (max-width:768px) {
+  .bg-modal{
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
 /*FUNCIONES DE BOOTSTRAP V4*/
 
 .align-middle{
