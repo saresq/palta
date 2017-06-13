@@ -27,7 +27,8 @@ html {
 }
 
 .numberdiv {
-  flex-flow: column
+  flex-flow: column;
+  text-align: center;
 }
 
 .iconoTexto, .panelIcono {
@@ -76,6 +77,11 @@ section .row {
 
 #site-footer .list-group-item {
   background-color: transparent
+}
+
+blockquote {
+  margin: 0;
+  text-align: center;
 }
 
 article {
