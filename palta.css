@@ -793,3 +793,7 @@ a.unlink {
   width: 100%;
   height: auto;
 }
+
+.subrayado{
+  text-decoration: underline;
+}
