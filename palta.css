@@ -800,3 +800,53 @@ a.unlink {
   padding-top: 28px;
   padding-bottom: 27px;
 }
+
+/*Circulo con texto centrado*/
+/*mobile*/
+@media (max-width:767px) {
+  .circulo {
+    color: #fff;
+    text-align: center;
+    margin: 20px auto;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding-top: 1.25rem;
+    display: block;
+    font-weight: bold;
+  }
+  .circulo h1 {
+    font-size: 3rem;
+    padding: 0px;
+    margin: 0px;
+  }
+  .circulo h6 {
+    font-size: 1rem;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+/*tblt desktop*/
+@media (min-width:768px) {
+  .circulo {
+    color: #fff;
+    text-align: center;
+    margin: 20px auto;
+    width: 11rem;
+    height: 11rem;
+    border-radius: 50%;
+    padding-top: 2.25rem;
+    display: block;
+    font-weight: bold;
+  }
+  .circulo h1 {
+    font-size: 4rem;
+    padding: 0px;
+    margin: 0px;
+  }
+  .circulo h6 {
+    font-size: 1.5rem;
+    padding: 0px;
+    margin: 0px;
+  }
+}
