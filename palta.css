@@ -793,3 +793,10 @@ a.unlink {
 .subrayado{
   text-decoration: underline;
 }
+
+/* FIX para paneles con iconos font awesome, utilizandose con iconos Argob */
+
+fa-con-ia{
+  padding-top: 28px;
+  padding-bottom: 27px;
+}
