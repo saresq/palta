@@ -796,7 +796,7 @@ a.unlink {
 
 /* FIX para paneles con iconos font awesome, utilizandose con iconos Argob */
 
-fa-con-ia{
+.fa-con-ia{
   padding-top: 28px;
   padding-bottom: 27px;
 }
