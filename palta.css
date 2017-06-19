@@ -854,3 +854,11 @@ a.unlink {
     margin: 0px;
   }
 }
+
+/* Background Position */
+.background-bottom{
+  background-position: bottom;
+}
+.background-top{
+  background-position: top;
+}
