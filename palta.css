@@ -875,3 +875,18 @@ a.unlink {
 .background-top{
   background-position: top;
 }
+
+/* Fix jquery.DataTables */
+
+.dataTables_paginate > .pagination {
+  margin-top: 0px;
+  float: right;
+}
+
+.dataTables_filter > label {
+  float:right;
+}
+
+.dataTables_length >label > select{
+  padding-top: 1px;
+}
