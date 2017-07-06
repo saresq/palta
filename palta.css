@@ -883,8 +883,15 @@ a.unlink {
   float: right;
 }
 
-.dataTables_filter > label {
+.dataTables_filter > label , .dataTables_length > label {
   float:right;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.dataTables_filter > label > input , .dataTables_length > label > input{
+  width:100%!important;
 }
 
 .dataTables_length >label > select{
