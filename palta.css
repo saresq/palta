@@ -1,8 +1,10 @@
 /*FIXES GENERALES*/
 
 html {
-  overflow-x: hidden
+  overflow-x: hidden;
+
 }
+
 
 /*FIXES A STYLES.CSS*/
 
@@ -102,6 +104,7 @@ img.img-responsive {
   max-height: none!important;
   min-height: none!important
 }
+
 .social-share {
   margin: 0;
   min-height: 32px
@@ -162,25 +165,31 @@ a img.aligncenter {
 
 
 /*FIXES DE SAFARI*/
+
 .row:after, .row:before {
   width: 0;
   content: ""
 }
 
+
 /*MOBILE FIXES*/
+
 @media (max-width:767px) {
   .video-row {
     flex-flow: column
   }
 }
 
+
 /*HEADER*/
+
 .menuLista {
   list-style: none;
   padding-left: 1rem;
   padding-bottom: 0.5rem;
 }
-.menuLista-item{
+
+.menuLista-item {
   padding-top: 0.5rem;
 }
 
@@ -230,26 +239,30 @@ a img.aligncenter {
   background-image: none
 }
 
-.btn-search{
+.btn-search {
   margin-bottom: 0 !important;
-    height: 54px !important;
+  height: 54px !important;
 }
 
 .navbar .navbar-brand {
   padding: 10px 0
 }
 
-.navbar li{
+.navbar li {
   padding-bottom: 0 !important;
 }
 
+
 /*Icono al final de input*/
+
 .fa-input {
-    position: absolute;
-    top: 0.45em;
-    z-index: 2;
-    right: 1.5em;
+  position: absolute;
+  top: 0.45em;
+  z-index: 2;
+  right: 1.5em;
 }
+
+
 /*CONTACT FORM 7*/
 
 .alert-success, .alert-warning {
@@ -288,6 +301,7 @@ a img.aligncenter {
 
 
 /*PONCHOBOT*/
+
 #htmlCode {
   user-select: all;
   background: #202020;
@@ -313,7 +327,9 @@ nav.stick {
   margin-top: 12px
 }
 
+
 /*MAP*/
+
 .map {
   -webkit-filter: grayscale(70%);
   -moz-filter: grayscale(70%);
@@ -332,7 +348,9 @@ nav.stick {
   pointer-events: none
 }
 
+
 /*TABLE*/
+
 .table-row {
   display: table-row;
   background-color: rgba(6, 149, 214, .7)
@@ -374,7 +392,9 @@ nav.stick {
   }
 }
 
+
 /*CAROUSEL*/
+
 .carouselBotons {
   position: absolute;
   top: 40%
@@ -426,6 +446,7 @@ nav.stick {
   outline: 0!important
 }
 
+
 /* Overlap Div para Plantilla Noticia*/
 
 @media (min-width: 1024px) {
@@ -454,6 +475,7 @@ nav.stick {
   height: 30px !important;
   outline: 0px !important;
 }
+
 
 /* Flecha para ir al top de la pag. */
 
@@ -499,7 +521,6 @@ a.unlink {
   border-width: 1px;
   padding-left: 5px;
 }
-
 
 .btn-slim {
   font-size: 14px;
@@ -601,6 +622,7 @@ a.unlink {
   right: 20;
 }
 
+
 /*home*/
 
 .voucher-beneficios .fa {
@@ -611,11 +633,12 @@ a.unlink {
 /*fin voucherLista*/
 
 
-
 /*PALETA DE COLORES*/
+
+
 /*Los nombres va a haber que cambiarlos pero son los nuevos colores de Background planteados por Clari*/
 
-.bg-gris{
+.bg-gris {
   background-color: #e9e9e9 !important;
 }
 
@@ -628,7 +651,7 @@ a.unlink {
   color: #ffffff;
 }
 
-.bg-celeste{
+.bg-celeste {
   background-color: #daf1f8 !important;
 }
 
@@ -680,46 +703,50 @@ a.unlink {
   color: #ffffff !important;
 }
 
-.bg-primary-claro{
+.bg-primary-claro {
   background-color: #82bee2 !important;
 }
-.bg-info-claro{
+
+.bg-info-claro {
   background-color: #9ed7e8 !important;
 }
 
-.text-primary-claro{
+.text-primary-claro {
   color: #82bee2 !important;
 }
-.text-info-claro{
+
+.text-info-claro {
   color: #9ed7e8 !important;
 }
 
-.bg-modal{
+.bg-modal {
   background: #F9F9F9;
-    border-radius: 4px;
-    box-shadow: 0 0 10px -4px black;
-    padding: 20px;
-    margin-left: -15px;
-    margin-right: -15px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px -4px black;
+  padding: 20px;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
 @media (max-width:768px) {
-  .bg-modal{
+  .bg-modal {
     margin-left: 0;
     margin-right: 0;
   }
 }
+
+
 /*FUNCIONES DE BOOTSTRAP V4*/
 
-.align-middle{
-      vertical-align: middle!important;
+.align-middle {
+  vertical-align: middle!important;
 }
 
 .row-eq-height {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display:         flex;
+  display: flex;
 }
 
 @media (max-width:575px) {
@@ -799,29 +826,36 @@ a.unlink {
   }
 }
 
+
 /*MEDIA KIT*/
-.mediakit-img img{
+
+.mediakit-img img {
   width: 100%;
   height: auto;
 }
 
-.subrayado{
+.subrayado {
   text-decoration: underline;
 }
 
+
 /* FIX para paneles con iconos font awesome, utilizandose con iconos Argob */
 
-.fa-con-ia-icons{
+.fa-con-ia-icons {
   margin-top: 20px !important;
   margin-bottom: 20px !important;
 }
 
-.icono-fa{
+.icono-fa {
   padding: 0px !important;
 }
 
+
 /*Circulo con texto centrado*/
+
+
 /*mobile*/
+
 @media (max-width:767px) {
   .circulo {
     color: #fff;
@@ -845,7 +879,10 @@ a.unlink {
     margin: 0px;
   }
 }
+
+
 /*tblt desktop*/
+
 @media (min-width:768px) {
   .circulo {
     color: #fff;
@@ -870,32 +907,47 @@ a.unlink {
   }
 }
 
+
 /* Background Position */
-.background-bottom{
+
+.background-bottom {
   background-position: bottom;
 }
-.background-top{
+
+.background-top {
   background-position: top;
 }
 
+
 /* Fix jquery.DataTables */
 
-.dataTables_paginate > .pagination {
+.dataTables_paginate>.pagination {
   margin-top: 0px;
   float: right;
 }
 
-.dataTables_filter > label , .dataTables_length > label {
-  float:right;
+.dataTables_filter>label, .dataTables_length>label {
+  float: right;
   width: 100%;
   margin-bottom: 20px;
   text-align: right;
 }
 
-.dataTables_filter > label > input , .dataTables_length > label > input{
-  width:100%!important;
+.dataTables_filter>label>input, .dataTables_length>label>input {
+  width: 100%!important;
 }
 
-.dataTables_length >label > select{
+.dataTables_length>label>select {
   padding-top: 1px;
+}
+
+
+/*Arreglo Footer para que este siempre abajo*/
+
+.footerGoBot {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  clear: both;
 }
