@@ -912,6 +912,7 @@ div#nav-wrapper {
 @media screen and (min-width: 991px) {
     div#nav-wrapper {
         opacity: 1 !important;
+        height: 100% !important;
     }
 }
 
