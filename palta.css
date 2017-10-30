@@ -918,7 +918,7 @@ div#nav-wrapper {
 
 /*Arreglo Radio Button*/
 /*Cuando los Radio son muchos sus textos van en varias lineas, para esos casos usar esta clase*/
-.btn-group-justified>.btn-radio{
+.btn-radio>.btn{
 display: block;
 width: 100%;
 border: 0 !important;
